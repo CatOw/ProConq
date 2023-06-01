@@ -1,0 +1,7 @@
+
+For better help please look at [#3B78FF]https://github.com/CatOw/ccui[/#3B78FF]
+╔═══════════╦════════════════════╦══════════════════════════════════════════╗
+║ [#3A96DD][u]Tool[/u][/#3A96DD]      ║ [#3A96DD][u]OS Compatibility[/u][/#3A96DD]   ║ [#3A96DD][u]Description[/u][/#3A96DD]                              ║
+║ [#61D6D6]chat[/#61D6D6]      ║ [#0037DA]Windows[/#0037DA], [#B4009E]Linux[/#B4009E]     ║ Chat with admins and friends.            ║
+║           ║                    ║                                          ║
+╚═══════════╩════════════════════╩══════════════════════════════════════════╝

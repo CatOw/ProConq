@@ -1,0 +1,2 @@
+class NoAvailableIDError(Exception):
+    pass

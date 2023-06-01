@@ -1,0 +1,15 @@
+
+For better help please look at [#3B78FF]https://github.com/CatOw/ccui[/#3B78FF]
+To get more information about a specific command type [#61D6D6]man command[/#61D6D6]
+╔═══════════╦════════════════════════╦═════════════════════════════════════════╗
+║ [#3A96DD][u]Command[/u][/#3A96DD]   ║ [#3A96DD][u]Aliases[/u][/#3A96DD]                ║ [#3A96DD][u]Description[/u][/#3A96DD]                             ║
+║ [#61D6D6]help[/#61D6D6]      ║ commands               ║ Show this message.                      ║
+║ [#61D6D6]man[/#61D6D6]       ║ -                      ║ Show command manual.                    ║
+║ [#61D6D6]shutdown[/#61D6D6]  ║ exit, quit, stop       ║ Shutdown CCUI.                          ║
+║ [#61D6D6]clear[/#61D6D6]     ║ cls                    ║ Clear the terminal.                     ║
+║ [#61D6D6]back[/#61D6D6]      ║ return                 ║ Goes back to the default page.          ║
+║ [#61D6D6]tools[/#61D6D6]     ║ -                      ║ Show the loaded available tools.        ║
+║ [#E74856]pac[/#E74856]       ║ [#E74856]addon, plug, tweak[/#E74856]     ║ [#E74856]Install a community tool. (Upcoming)[/#E74856]    ║
+║ [#61D6D6]chat[/#61D6D6]      ║ -                      ║ Activates the chat tool.                ║
+║           ║                        ║                                         ║
+╚═══════════╩════════════════════════╩═════════════════════════════════════════╝

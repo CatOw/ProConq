@@ -1,0 +1,23 @@
+
+For better help please look at [#3B78FF]https://github.com/CatOw/ccui[/#3B78FF]
+To get more information about a specific command type [#61D6D6]man command[/#61D6D6]
+╔═══════════╦════════════════════════╦═════════════════════════════════════════╗
+║ [#3A96DD][u]Command[/u][/#3A96DD]   ║ [#3A96DD][u]Aliases[/u][/#3A96DD]                ║ [#3A96DD][u]Description[/u][/#3A96DD]                             ║
+║ [#61D6D6]help[/#61D6D6]      ║ commands               ║ Show this message.                      ║
+║ [#61D6D6]man[/#61D6D6]       ║ -                      ║ Show command manual.                    ║
+║ [#61D6D6]shutdown[/#61D6D6]  ║ exit, quit, stop       ║ Shutdown CCUI.                          ║
+║ [#61D6D6]clear[/#61D6D6]     ║ cls                    ║ Clear the terminal.                     ║
+║ [#61D6D6]back[/#61D6D6]      ║ return                 ║ Goes back to the Tools Manager page.    ║
+║ [#16C60C]connect[/#16C60C]   ║ -                      ║ Connects to the Chat Server.            ║
+║ [#16C60C]disconnect[/#16C60C]║ -                      ║ Disconnects from the Chat Server.       ║
+║ [#16C60C]users[/#16C60C]     ║ -                      ║ Get the list of users online.           ║
+║ [#16C60C]login[/#16C60C]     ║ -                      ║ Login to the chat server.               ║
+║ [#16C60C]register[/#16C60C]  ║ -                      ║ Register to the chat server.            ║
+║ [#16C60C]getid[/#16C60C]     ║ id                     ║ Get your user's ID.                     ║
+║ [#16C60C]message[/#16C60C]   ║ msg                    ║ Send a message to a user.               ║
+║ [#16C60C]mail[/#16C60C]      ║ -                      ║ See list of received messages.          ║
+║ [#16C60C]buffer[/#16C60C]    ║ -                      ║ Manage messages that failed to send.    ║
+║ [#B4009E]database[/#B4009E]  ║ -                      ║ Get the database (admins only).         ║
+║ [#B4009E]deluser[/#B4009E]   ║ -                      ║ Delete a registered user (admins only). ║
+║           ║                        ║                                         ║
+╚═══════════╩════════════════════════╩═════════════════════════════════════════╝
